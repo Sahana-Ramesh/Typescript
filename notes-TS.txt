@@ -1,0 +1,21 @@
+cmds to run the file
+--tsc .\first.ts 
+--node .\first.ts
+
+-------------------------
+data types:
+--Built-in
+1)Number
+2)String
+3)Boolean
+4)Void
+5)Null
+
+--User-defined
+1)Array
+2)tuple
+3)Functions
+4)Class
+5)Enums
+6)Interface
+
